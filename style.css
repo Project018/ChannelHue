@@ -31,6 +31,11 @@
     font-family: myBodyFont;
 }
 
+.regularBlog {
+    font-family: myBodyFont;
+    font-size: 20px;
+}
+
 
 @font-face {
   font-family: 'icomoon';
